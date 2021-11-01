@@ -189,13 +189,13 @@ a {
     fill: currentColor;
     }   
 
-    .icon-phone {
-        width: 10px;
-        height: 16px;
-        margin-right: 10px;
-        fill: currentColor;        
-    }
-    
+.icon-phone {
+    width: 10px;
+    height: 16px;
+    margin-right: 10px;
+    fill: currentColor;        
+}
+
 /* ----------------hero------------------- */
 
 .hero {
@@ -308,7 +308,7 @@ a {
     border-radius: 50%;
     border: 1px solid #AFB1B8;
     background-color: #fff;
-    
+    padding: 6px;
 }
 
 .icon-btn-close {
